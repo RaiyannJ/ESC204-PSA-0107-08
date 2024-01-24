@@ -1,6 +1,6 @@
 '''
 V4 - Modification of previous code (as our circuit was better optimized to use less wires,
-Space the button and decrease and resistors/metals touching
+Space the button and make sure no resistors/metals touching
 '''
 # Import libraries needed for blinking the LED
 import board
