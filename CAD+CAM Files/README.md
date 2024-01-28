@@ -14,4 +14,6 @@ Receipt2 - The second MYFab DigiFab order. The bottom and top pieces were printe
 
 ReceiptF - The final MYFab DigiFab order. Here only the top piece was ordered, since the bottom peice was able to properly fit the circuit within.
 
-VFinal_Top3mf and Bottom3mf - the final 3mf files we used for printing!
+VFinal Top3mf and Bottom3mf - the final 3mf files we used for printing!
+
+CAD Screenshot - Screenshot of our CAD model for the final integration and printing
