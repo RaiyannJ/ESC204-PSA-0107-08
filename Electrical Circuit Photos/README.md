@@ -8,6 +8,6 @@ V3 - 2 LEDS connected in parallel to one port, the 3rd LED in a separate port (2
 
 V4 - similar circuit, but more spaced out on the breadboard
 
-V5 (IMG_3014)- the circuit we decided to choose and model our final CAD around. Wires are stripped/color coded and the circuit is very clean
+V5 - the circuit we decided to choose and model our final CAD around. Wires are stripped/color coded and the circuit is very clean
 
 VFinal - Circuit in our showcase, only difference from V5 is that resistors were trimmed
